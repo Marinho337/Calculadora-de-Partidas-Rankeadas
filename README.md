@@ -40,3 +40,8 @@ Este projeto simula uma calculadora de ranking para partidas ranqueadas, baseado
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Marinho337/calculadora-rankeadas.git
+
+👨‍💻 Autor
+Gabriel Marinho
+
+
